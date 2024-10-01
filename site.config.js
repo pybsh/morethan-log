@@ -11,7 +11,7 @@ const CONFIG = {
     instagram: "jn.hyeon",
   },
   projects: [
-
+    {},
   ],
   // blog setting (required)
   blog: {
