@@ -6,15 +6,12 @@ const CONFIG = {
     role: "학생 개발자",
     bio: "반갑습니다.",
     email: "jnhyeon18@gmail.com",
-    linkedin: "pybsh",
+    linkedin: "",
     github: "pybsh",
     instagram: "jn.hyeon",
   },
   projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
-    },
+
   ],
   // blog setting (required)
   blog: {
