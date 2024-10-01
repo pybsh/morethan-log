@@ -11,7 +11,10 @@ const CONFIG = {
     instagram: "jn.hyeon",
   },
   projects: [
-    {},
+    {
+      name: `-`,
+      href: "#",
+    },
   ],
   // blog setting (required)
   blog: {
